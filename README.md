@@ -56,46 +56,5 @@ Your answer should include:-
   have item codes starting with the letter “F”. The customer also pays a GST @ 7% on the net
   amount (i.e., Gross Total – Discounts).
 
----
-input
----
-> Enter Item Code: A123  
-> Enter Qty: 1  
-> Enter Unit Price: 5.35  
-> To enter more items press Y; to end press N: Y  
-
-> Enter Item Code: F432  
-> Enter Qty: 3  
-> Enter Unit Price: 2.30  
-> To enter more items press Y; to end press N: Y  
-
-> Enter Item Code: C234  
-> Enter Qty: 2  
-> Enter Unit Price: 7.30  
-> To enter more items press Y; to end press N: N  
-
-> The shopper a loyalty member?  N  
 
 
----
-output
----
-> ABC STORE
-> SINGAPORE
->
-> INVOICE
->
-> Date of Purchase: 5-03-2009 Thursday
->
-> -----------------------------------------------------------------------------------
-> SNo        Item Code        Qty      U/Price       Cost     Discount     Net
-> --------------------------------------------------------------------------------------
-> 0          A123             1        5.35          5.35     0.00         5.35
-> 1          F432             3        2.30          6.90     0.00         6.90
-> 0          C234             2        7.30          14.60    0.00         14.60
-> --------------------------------------------------------------------------------------
-> Gross Total:                                                            $26.85
-> Member Discount:                                                       -$0.00
-> GST @ 7%                                                               +$1.87
->
-> Please Pay:                                                            $28.72
