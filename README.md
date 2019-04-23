@@ -34,7 +34,7 @@ Your answer should include:-
 - In addition credit would be given if you are able to accomplish the followings:
 - Organize your program modularly with appropriate static methods.
 - Demonstrate ability to format the invoice slip well.
-* Demonstrate best practices such as using good naming standards and clear
+- Demonstrate best practices such as using good naming standards and clear
   presentation of program.
   
   
@@ -56,17 +56,19 @@ Your answer should include:-
   have item codes starting with the letter “F”. The customer also pays a GST @ 7% on the net
   amount (i.e., Gross Total – Discounts).
 
-
-- Enter Item Code: A123
-- Enter Qty: 1
-- Enter Unit Price: 5.35
-- To enter more items press Y; to end press N: Y
-- Enter Item Code: F432
-- Enter Qty: 3
-- Enter Unit Price: 2.30
-- To enter more items press Y; to end press N: Y
-- Enter Item Code: C234
-- Enter Qty: 2
-- Enter Unit Price: 7.30
-- To enter more items press Y; to end press N: N
-- The shopper a loyalty member?  N
+---
+input
+---
+> Enter Item Code: A123
+> Enter Qty: 1
+> Enter Unit Price: 5.35
+> To enter more items press Y; to end press N: Y
+> Enter Item Code: F432
+> Enter Qty: 3
+> Enter Unit Price: 2.30
+> To enter more items press Y; to end press N: Y
+> Enter Item Code: C234
+> Enter Qty: 2
+> Enter Unit Price: 7.30
+> To enter more items press Y; to end press N: N
+> The shopper a loyalty member?  N
