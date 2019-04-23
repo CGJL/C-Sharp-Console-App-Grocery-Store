@@ -59,16 +59,18 @@ Your answer should include:-
 ---
 input
 ---
-> Enter Item Code: A123
-> Enter Qty: 1
-> Enter Unit Price: 5.35
-> To enter more items press Y; to end press N: Y
-> Enter Item Code: F432
-> Enter Qty: 3
-> Enter Unit Price: 2.30
-> To enter more items press Y; to end press N: Y
-> Enter Item Code: C234
-> Enter Qty: 2
-> Enter Unit Price: 7.30
-> To enter more items press Y; to end press N: N
-> The shopper a loyalty member?  N
+> Enter Item Code: A123  
+
+> Enter Qty: 1  
+
+> Enter Unit Price: 5.35  
+> To enter more items press Y; to end press N: Y  
+> Enter Item Code: F432  
+> Enter Qty: 3  
+> Enter Unit Price: 2.30  
+> To enter more items press Y; to end press N: Y  
+> Enter Item Code: C234  
+> Enter Qty: 2  
+> Enter Unit Price: 7.30  
+> To enter more items press Y; to end press N: N  
+> The shopper a loyalty member?  N  
