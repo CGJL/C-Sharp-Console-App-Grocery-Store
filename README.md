@@ -4,11 +4,11 @@ GdipSA Sample Paper 2 (FOCPS)
 Write a C# console program that would be used by the counter salesperson to print out the
 invoice slip.
 Your program should read the following information from the console:
--a. Item Code (string)
--b. Item Price (decimal)
--c. Item Quantity (integer)
--d. Is the shopper a loyalty member? (char – Y/N)
--e. Membership Number [to be input if response to (d) is Y]
+- a. Item Code (string)
+- b. Item Price (decimal)
+- c. Item Quantity (integer)
+- d. Is the shopper a loyalty member? (char – Y/N)
+- e. Membership Number [to be input if response to (d) is Y]
 
 TIPS: The program should:
 - Prompt for Item data (Item Code, Item Price, Item Quantity).
