@@ -1,5 +1,3 @@
-# storeConsoleApp
-GdipSA Sample Paper 2 (FOCPS)
 
 Write a C# console program that would be used by the counter salesperson to print out the
 invoice slip.
@@ -38,7 +36,6 @@ Your answer should include:-
   presentation of program.
   
   
-  Appendix A
   
   ABC Store is a popular shop that sells a range of items like groceries, fresh food, stationery
   and other household items. Like most shops of this type they have a personal computer at the
